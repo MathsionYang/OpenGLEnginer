@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+3dParty
+*.vs
+x64
+*.vcxproj
+*.filters
+*.user
